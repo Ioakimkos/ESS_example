@@ -1,0 +1,1 @@
+This is a simple project that uses [Elastic.Serilog.Sinks](https://www.elastic.co/guide/en/ecs-logging/dotnet/current/serilog-data-shipper.html) to write logs to Elastic, you can also use [appsettings.json](https://github.com/Ioakimkos/ESS_example/blob/main/appsettings.json) to set configurations for Elastic through it.
